@@ -1,3 +1,7 @@
+/*
+https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+*/
+
 var maxProfit = function(prices) {
     let buyingStockPrice = Number.MAX_SAFE_INTEGER
     let sellingStockPrice = 0
