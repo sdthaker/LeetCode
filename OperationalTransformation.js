@@ -1,3 +1,7 @@
+/*
+https://otcatchup.util.repl.co/
+*/
+
 const { log } = require("console")
 
 function isValid(stale, latest, otjson) {
